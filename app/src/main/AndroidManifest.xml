@@ -10,9 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ScreenSnap">
         <activity
-            android:name=".MainActivity"
-            android:label="@string/app_name"
-            android:theme="@style/Theme.ScreenSnap.NoActionBar">
+            android:name=".SettingsActivity"
+            android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
